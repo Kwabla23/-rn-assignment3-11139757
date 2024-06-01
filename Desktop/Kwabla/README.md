@@ -17,6 +17,12 @@ Navigate to the project directory: cd rn-assignment3-ID
 Install dependencies: npm install
 Run the application: npm start
 
+## Usage
+- The `Task` component renders the main layout.
+- The `CategoryCard` component is used to display each category with its respective image and text.
+- The `OngoingTaskCard` component is used to display each ongoing task.
+- The `TaskList` component renders the list of ongoing tasks using `FlatList`.
+
 
 Contributors
 Chris Kwabla Nartey
